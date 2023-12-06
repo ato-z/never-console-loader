@@ -1,0 +1,28 @@
+{
+  "name": "never-console-loader",
+  "author": "ato-z <523333404@qq.com>",
+  "version": "1.0.2",
+  "description": "🙈🙈🙈 Remove console print information",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {},
+  "keywords": [
+    "webpack",
+    "plugin",
+    "loader",
+    "never",
+    "console"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/ato-z/never-console-loader.git",
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  },
+  "dependencies": {
+    "acorn": "^8.11.2",
+    "acorn-walk": "^8.3.0",
+    "magic-string": "^0.30.5"
+  }
+}
